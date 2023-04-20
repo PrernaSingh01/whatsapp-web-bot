@@ -1,0 +1,21 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "This is a nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Prerna Singh <iprernasingh4@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "i": "^0.3.7",
+    "npm": "^9.6.5",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.19.5"
+  }
+}
